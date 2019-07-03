@@ -9,16 +9,16 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 ### Labels
 Each training and test example is assigned to one of the following labels:
 
-0 T-shirt/top
-1 Trouser
-2 Pullover
-3 Dress
-4 Coat
-5 Sandal
-6 Shirt
-7 Sneaker
-8 Bag
-9 Ankle boot 
+- 0 T-shirt/top
+- 1 Trouser
+- 2 Pullover
+- 3 Dress
+- 4 Coat
+- 5 Sandal
+- 6 Shirt
+- 7 Sneaker
+- 8 Bag
+- 9 Ankle boot 
 
 Each row is a separate image
 Column 1 is the class label.
