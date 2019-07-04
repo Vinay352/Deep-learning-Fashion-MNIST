@@ -29,3 +29,8 @@ Each value is the darkness of the pixel (1 to 255)
 Go to the link below to download the dataset.
 
 https://www.kaggle.com/zalando-research/fashionmnist
+
+### Accuracy
+
+The validation accuracy = 92.803%
+The test accuracy = 92.9%
