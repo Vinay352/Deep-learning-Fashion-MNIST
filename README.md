@@ -32,5 +32,6 @@ https://www.kaggle.com/zalando-research/fashionmnist
 
 ### Accuracy
 
-The validation accuracy = 92.803%
-The test accuracy = 92.9%
+The validation accuracy = 92.803%.
+
+The test accuracy = 92.9%.
